@@ -84,7 +84,7 @@ int main()
   display(head);
   deletion(head,2);
   display(head);
-deletion(head,1);
+deleat_at_head(head);
 display(head);
 return 0;
 }
